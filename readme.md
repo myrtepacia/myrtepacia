@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a computer science student from <a href="https://norsu.edu.ph/" target="_blank"><b>Negros Oriental State University</b></a> 」
+    「 I am a computer science student at <a href="https://norsu.edu.ph/" target="_blank"><b>Negros Oriental State University</b></a> 」
     <br>
     <br>
   </samp>
