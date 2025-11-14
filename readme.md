@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
- <a href="https://hvtepacia.com.com" target="blank">
+ <a href="https://hvtepacia.com.com" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://discord.com/users/300006432798015489" target="_blank">
