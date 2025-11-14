@@ -34,7 +34,9 @@
  # About me
  
 <p>
-I love turning ideas into code and bringing imagination to life through technology. Outside of coding, I spend my time watching anime, playing games, and drawing. I also love exploring new places i haven’t been before.
+<strong>I love turning ideas into code and bringing imagination to life through technology. 
+<br>Outside of coding, I spend my time watching anime, playing games, and drawing. 
+<br>I also love exploring new places i haven’t been before.</strong>
 
 </p>
 
