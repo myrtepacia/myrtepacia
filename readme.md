@@ -1,14 +1,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://hvtepacia.com">Henmyr Vincent L. Tepacia</a></b>
+                <b><a href="https://hvtepacia.com target="_blank"">Henmyr Vincent L. Tepacia</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    「 I am a computer science student from <a target="_blank" href="https://norsu.edu.ph/"><b>Negros Oriental State University</b></a> 」
+    「 I am a computer science student from <a href="https://norsu.edu.ph/" target="_blank"><b>Negros Oriental State University</b></a> 」
     <br>
     <br>
   </samp>
