@@ -21,10 +21,10 @@
  <a href="https://discord.com/users/300006432798015489" target="_blank">
   <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" alt="alsiam"/>
  </a>
- <a href="https://instagram.com/hvtepacia11" target="_blank">
+ <a href="https://instagram.com/myrtepacia" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/hvtepacia11" target="_blank">
+ <a href="https://facebook.com/myrtepacia" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
